@@ -1348,7 +1348,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #ff7242;
+  --btn-hover-color: #000;
   --btn-color: #fff;
   --btn-bg: #49b1f5;
   --text-bg-hover: rgba(73,177,245,0.7);
@@ -1362,9 +1362,9 @@ canvas:not(#ribbon-canvas),
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #ff7242;
+  --pseudo-hover: #000;
   --headline-presudo: #a0a0a0;
-  --scrollbar-color: #49b1f5;
+  --scrollbar-color: RGBA(0, 0, 0, 0.5);
 }
 body {
   position: relative;
@@ -4078,7 +4078,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: RGBA(0, 0, 0, 0.4);
   color: var(--white);
 }
 #pagination .pagination-info {
@@ -4740,7 +4740,7 @@ h1.page-title + .tag-cloud-list {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #49b1f5;
-  --waline-active-color: #ff7242;
+  --waline-active-color: #000;
 }
 #waline-wrap .vuser {
   -webkit-transition: all 0.5s;
