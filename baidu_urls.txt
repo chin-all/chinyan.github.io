@@ -1,2 +1,2 @@
-http://example.com/2022/09/04/set-image-host/
-http://example.com/2022/08/27/hello-world/
+http://example.com/posts/34016/
+http://example.com/posts/62832/
