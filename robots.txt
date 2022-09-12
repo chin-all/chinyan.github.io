@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://chin-all.github.io/sitemap.xml
-Sitemap: https://chin-all.github.io/baidusitemap.xml
+Sitemap: https://chinyan.top/sitemap.xml
+Sitemap: https://chinyan.top/baidusitemap.xml
