@@ -38,14 +38,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E7%A2%8E%E5%BF%B5/</loc>
+    <loc>http://example.com/tags/%E5%AE%9E%E7%94%A8/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AE%9E%E7%94%A8/</loc>
+    <loc>http://example.com/tags/%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
