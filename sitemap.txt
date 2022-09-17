@@ -1,3 +1,6 @@
 http://example.com/posts/34016/
 http://example.com/posts/62832/
+http://example.com/posts/34016/
 http://example.com/
+http://example.com/tags/%E5%AE%9E%E7%94%A8/
+http://example.com/tags/%E7%A2%8E%E5%BF%B5/
