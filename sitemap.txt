@@ -1,5 +1,5 @@
-http://example.com/categories/index.html
 http://example.com/tags/index.html
+http://example.com/categories/index.html
 http://example.com/posts/18272/
 http://example.com/posts/62832/
 http://example.com/posts/34016/
