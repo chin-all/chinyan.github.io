@@ -1,7 +1,7 @@
 ﻿body {
   margin: 0;
   padding: 0;
-  background: url(../image/R.jpeg);
+  background: url(../image/R.jpeg) no-repeat;
   background-size: 100%;
   font-size: 16px;
   overflow: auto;
