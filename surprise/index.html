@@ -4,7 +4,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>No Way</title>
+	<title>Best wish for you</title>
 
 	<style type="text/css">
 		@font-face {
@@ -21,16 +21,15 @@
 </head>
 
 <body>
-
 	<div id="mainDiv">
 		<div id="content">
 			<div id="code">
 				<span class="comments">/**</span><br />
 				<span class="space" /><span class="comments">*2023—02-14,</span><br />
 				<span class="space" /><span class="comments">*/</span><br />
-				Boy = <span class="keyword">Teacher </span>chin<br />
-				Girl = <span class="keyword">Baby </span>Zhong<br /><br />
-				情人节快乐！My Girl!<br />
+				Boy = <span class="keyword">Teacher Chin</span><br />
+				Girl = <span class="keyword">Baby Zhong</span><br /><br />
+				<h3><span class="keyword">情人节快乐！My Girl!</span></h3>
 				想不起什么礼物，便送一首诗给你，希望能给你带来欢喜<br />
 				<h3>阡陌花开，开出个宝藏女孩</h3>
 				<h3>野芳飘香，落在谁家田上</h3>
@@ -41,11 +40,24 @@
 				<span class="comments">I have only one wish</span><br />
 				<span class="comments">I hope the girl can be happy forever &#10084;</span><br />
 				<br>
-				<br>
-				At last <br />
-				I want to say:<br />
-				Baby, I love you forever;<br />
+				At last, I want to say:<br />
+				<span id="photo-click">
+					<a href="javascript:void(0)"
+						onclick="document.getElementById('photo-light').style.display='block';document.getElementById('photo-fade').style.display='block'">
+						&nbsp;&nbsp;Baby, I love you forever;
+					</a>
+				</span><br />
 			</div>
+			<div id="photo-light" class="white_content">
+				<div id="photo-close">
+					<a href="javascript:void(0)"
+						onclick="document.getElementById('photo-light').style.display='none';document.getElementById('photo-fade').style.display='none'">
+						&#9787;
+					</a>
+				</div>
+				<div id="group-photo"></div>
+			</div>
+			<div id="photo-fade" class="black_overlay"></div>
 			<div id="loveHeart">
 				<canvas id="garden"></canvas>
 				<div id="words">
@@ -61,7 +73,7 @@
 			</div>
 		</div>
 		<div id="copyright">
-			<a href="#">...</a><br />
+			<a href="https://chinyan.top/">&#9728;</a><br />
 		</div>
 	</div>
 
