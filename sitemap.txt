@@ -1,5 +1,9 @@
-http://example.com/tags/index.html
+http://example.com/image/photo.html
 http://example.com/posts/1/
+http://example.com/image/gif.html
+http://example.com/image/wallpaper.html
+http://example.com/image/emoticon.html
+http://example.com/tags/index.html
 http://example.com/posts/43102/
 http://example.com/posts/62832/
 http://example.com/posts/18272/
