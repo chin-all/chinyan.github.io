@@ -1,6 +1,7 @@
 http://example.com/posts/34244/
-http://example.com/posts/34928/
 http://example.com/posts/6386/
+http://example.com/posts/34244/
+http://example.com/posts/34928/
 http://example.com/posts/62832/
 http://example.com/posts/46029/
 http://example.com/image/photo.html
