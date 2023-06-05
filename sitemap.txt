@@ -1,8 +1,8 @@
+http://example.com/posts/32272/
+http://example.com/posts/24810/
 http://example.com/posts/35462/
 http://example.com/posts/43142/
 http://example.com/posts/43102/
-http://example.com/posts/24810/
-http://example.com/posts/32272/
 http://example.com/posts/6386/
 http://example.com/posts/34928/
 http://example.com/posts/62832/
