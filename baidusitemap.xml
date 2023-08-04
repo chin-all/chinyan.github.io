@@ -1,55 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/posts/32272/</loc>
-    <lastmod>2023-06-05</lastmod>
+    <loc>http://example.com/posts/56956/</loc>
+    <lastmod>2023-08-04</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/24810/</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-04</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/35462/</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/32272/</loc>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/59526/</loc>
+    <lastmod>2023-06-29</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/10610/</loc>
+    <lastmod>2023-06-29</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/21451/</loc>
+    <lastmod>2023-06-24</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/43142/</loc>
-    <lastmod>2023-06-05</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/43102/</loc>
-    <lastmod>2023-06-05</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/6386/</loc>
-    <lastmod>2023-04-11</lastmod>
+    <lastmod>2023-06-11</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/34928/</loc>
-    <lastmod>2023-04-03</lastmod>
+    <lastmod>2023-06-11</lastmod>
   </url>
   <url>
-    <loc>http://example.com/posts/62832/</loc>
-    <lastmod>2023-03-16</lastmod>
+    <loc>http://example.com/posts/6386/</loc>
+    <lastmod>2023-06-11</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/43102/</loc>
+    <lastmod>2023-06-11</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/46029/</loc>
-    <lastmod>2023-02-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/1/</loc>
-    <lastmod>2023-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/18272/</loc>
-    <lastmod>2023-02-17</lastmod>
+    <lastmod>2023-06-11</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/45715/</loc>
-    <lastmod>2022-09-21</lastmod>
+    <lastmod>2023-06-11</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/62832/</loc>
+    <lastmod>2023-06-11</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/34016/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2023-06-11</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/18272/</loc>
+    <lastmod>2023-06-11</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/1/</loc>
+    <lastmod>2023-06-11</lastmod>
   </url>
 </urlset> 
