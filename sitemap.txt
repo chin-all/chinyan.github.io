@@ -1,3 +1,4 @@
+http://example.com/posts/1602/
 http://example.com/posts/56956/
 http://example.com/posts/24810/
 http://example.com/posts/35462/
@@ -25,6 +26,6 @@ http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/%E5%9B%BE%E5%BA%93/
 http://example.com/tags/%E5%AE%9E%E7%94%A8/
+http://example.com/tags/%E7%A2%8E%E5%BF%B5/
 http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/
 http://example.com/tags/%E5%89%8D%E7%AB%AF/
-http://example.com/tags/%E7%A2%8E%E5%BF%B5/

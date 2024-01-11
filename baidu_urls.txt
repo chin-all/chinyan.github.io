@@ -1,3 +1,4 @@
+http://example.com/posts/1602/
 http://example.com/posts/56956/
 http://example.com/posts/10610/
 http://example.com/posts/59526/
